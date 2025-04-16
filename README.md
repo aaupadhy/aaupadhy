@@ -1,26 +1,36 @@
-**Note: I have lost access to my account with username aayush1205 and hence I have forked my older repositories here.**
+# 👋 Hey, I'm Aayush
 
-# 👀 Hey there! I'm Aayush. 
+**Note:** I’ve lost access to my original GitHub account (`aayush1205`), so I’ve forked my older repositories here for continuity.
 
-I am first-year Research Student at Texas A&M University. I am currently researching how to use ML to predict *Atlantic Meridional Overturning Circulation* heat transport using Sea-Surface Height and Temperature (As a Research Assistant in the Department of Oceanography). I used to work on Distributred Systems, and Machine Learning at LinkedIn. 
+I'm a first-year Computer Science grad student at Texas A&M, currently a Research Assistant in the Department of Oceanography. I work on ML for physical sciences — using spatiotemporal Vision Transformers to predict heat transport across the Atlantic. It’s compute-heavy, high-dimensional, and way too fun.
 
-### 💡 Stuff I think is cool! (I cringe at my old code every day, dw)
+Before grad school, I engineered distributed infra at LinkedIn, built services that touched 100K+ QPS, and designed fault-tolerant systems for ML production. I’ve also dabbled in GNNs, launched a D2C brand, and built a CLI music player because browsers were too much effort.
 
-- Check out muCLIar. It got 100+ stars. I was too lazy to play music through a browser, so I spent a month building a tool to play it through CLI. Yes, the irony isn't lost on me.
-- Though not Open Source, I trained a Graph Neural Network to create a "Knowledge Graph" for LinkedIn's internal documentation. A lot of us used it for new-hire onboarding.
-- Launched a D2C brand! Check [it](https://aakhar.in) out
+---
 
-### 💡 What I'm interested in
+## 🧠 Interests
 
-I am really passionate about how things work at scale, and I try my best to fiddle around with some code to aid that. I like to think I am a product-driven person (or just a bad engineer). I have worked extensively with Computer Vision in the past and I hold that interest dearly as well.
+- ML Infrastructure & Distributed Training
+- Ocean Modeling and Spatiotemporal Transformers
+- RL for LLM Context Management
+- 3D Computer Vision (Gaussian Splatting, NeRF, vSLAM)
+- Representation Learning & Model Compression
 
-### 👨🏽‍🎓Here's what I'm currently learning:
+---
 
-- Oceanography
-- Interpretable ML
-- Mathematics
+## 📚 Currently Learning
 
-### 📫 How to reach me:
+- Reinforcement Learning for LLM Memory Efficiency
+- Mathematical Optimization & Signal Processing
+- Ocean Circulation Patterns via ML
 
-- [Email](mailto:aaupadhy@tamu.edu)
-- [LinkedIn](https://linkedin.com/in/aaupadhy)
+---
+
+## 📫 Reach Me
+
+[![Email](https://img.shields.io/badge/email-aaupadhy@tamu.edu-blue?style=flat&logo=gmail)](mailto:aaupadhy@tamu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aaupadhy)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Aayush%20Upadhyay-4b4b4b?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=28shvv0AAAAJ)
+[![GitHub](https://img.shields.io/github/followers/aaupadhy?label=Follow&style=social)](https://github.com/aaupadhy)
+
+---
