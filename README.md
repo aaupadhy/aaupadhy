@@ -2,7 +2,7 @@
 
 **Note:** I’ve lost access to my original GitHub account (`aayush1205`), so I’ve forked my older repositories here for continuity.
 
-I'm a first-year Computer Science grad student at Texas A&M, currently a Research Assistant in the Department of Oceanography. I work on ML for physical sciences — using spatiotemporal Vision Transformers to predict heat transport across the Atlantic. It’s compute-heavy, high-dimensional, and way too fun.
+I'm a second-year Computer Science MS CS student at Texas A&M, currently a Research Assistant in the Department of Oceanography working on ML for physical sciences — using spatiotemporal Vision Transformers to predict heat transport across the Atlantic. It’s compute-heavy, high-dimensional, and way too fun.
 
 Before grad school, I engineered distributed infra at LinkedIn, built services that touched 100K+ QPS, and designed fault-tolerant systems for ML production. I’ve also dabbled in GNNs, launched a D2C brand, and built a CLI music player because browsers were too much effort.
 
@@ -21,7 +21,7 @@ Before grad school, I engineered distributed infra at LinkedIn, built services t
 ## 📚 Currently Learning
 
 - Reinforcement Learning for LLM Memory Efficiency
-- Mathematical Optimization & Signal Processing
+- Optimization
 - Ocean Circulation Patterns via ML
 
 ---
